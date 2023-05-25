@@ -13,7 +13,7 @@ jobs:
       - uses: ImYrS/aliyun-auto-signin@main
         with:
           REFRESH_TOKENS: ${{ 857a63aed8a44704a493b1a2a4b751d5 }}
-          GP_TOKEN: ${{ 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}}
+          GP_TOKEN: ${{ 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}}
           PUSH_TYPES: 'TELEGRAM'
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
